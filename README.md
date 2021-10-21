@@ -1,4 +1,4 @@
-#<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Mega Dwi Astuti 🙂👩‍💼
+<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Mega Dwi Astuti 🙂👩‍💼
 
 #### I have a Graduated degree in Geophysical Engineering. Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
 
