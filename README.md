@@ -3,9 +3,9 @@
 #### I have a Graduated degree in Geophysical Engineering. Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
 
 
-#### Some interesting facts about me👩‍💼</summary>
-  <br>
-  
+
+#### Some interesting facts about me👩‍💼
+
 - 🌱 I’m currently learning interpreting, analyzing, and visualization data with **Python** and **Tableau**
   
 - 
@@ -14,6 +14,7 @@
   
 - ⭐️ While Coding, Listening Music and developing useful code. 
 
+  
   
 #### 💻 Languages and Tools:
   
