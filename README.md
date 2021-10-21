@@ -17,8 +17,13 @@
   
   
 #### 💻 Languages and Tools:
-  
-  
+- ✅ Python
+- ✅ SQLite
+- ✅ R
+- ✅ Microsoft Excel
+- ✅ Tableau
+- 
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
