@@ -6,6 +6,7 @@
 <details>
   <summary>Some interesting facts about me👩‍💼</summary>
   <br>
+  
 - 🌱 I’m currently learning interpreting, analyzing, and visualization data with **Python** and **Tableau**
   
 - ☀️ I'm Learning and Developing Machine Learning based projects in Python with Supervised and Unsupervised Learning
