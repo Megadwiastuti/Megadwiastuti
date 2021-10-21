@@ -38,10 +38,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Instagram"/>
     </a>
     <a href="https://github.com/Megadwiastuti" target="_blank">    
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
     </a>
     <a href="https://public.tableau.com/app/profile/mega.dwi.astuti" target="_blank">  
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/tableau-%230077B5.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=071A2C" alt="Tableau"/>
     </a>
 
 <!---
