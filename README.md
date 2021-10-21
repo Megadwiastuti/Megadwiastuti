@@ -35,11 +35,14 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/mdamegadwi/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Instagram"/>
     </a>
-         
-    <a href="https://github.com/Megadwiastuti" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-    <a href="https://public.tableau.com/app/profile/mega.dwi.astuti" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://github.com/Megadwiastuti" target="_blank">    
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Github"/>
+    </a>
+    <a href="https://public.tableau.com/app/profile/mega.dwi.astuti" target="_blank">  
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Tableau"/>
+    </a>
 
 <!---
 Megadwiastuti/Megadwiastuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
