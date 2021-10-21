@@ -1,17 +1,16 @@
 # 👋 Hi, I’m Mega Dwi Astuti 🙂👩‍💼
 
-### I have a Graduated degree in Geophysical Engineering. Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
+#### I have a Graduated degree in Geophysical Engineering. Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
 
-- 🌱 I’m currently learning interpreting, analyzing, and visualization data with **Python** and **Tableau**
-- ☀️ I'm Learning and Developing Machine Learning based projects in Python with Supervised and Unsupervised Learning
 
 <details>
   <summary>Some interesting facts about me👩‍💼</summary>
   <br>
-
-  - ⭐️ While Coding, Listening Music and developing useful code. 
-  - 📔 Reading Novels, watching Action and Adventure movie, Historical Fiction, Romance, Sci-Fi, History books.
-  - 🎤 I like singing and music.
+- 🌱 I’m currently learning interpreting, analyzing, and visualization data with **Python** and **Tableau**
+- ☀️ I'm Learning and Developing Machine Learning based projects in Python with Supervised and Unsupervised Learning
+- ⭐️ While Coding, Listening Music and developing useful code. 
+- 📔 Reading Novels, watching Action and Adventure movie, Historical Fiction, Romance, Sci-Fi, History books.
+- 🎤 I like singing and music.
   
   
 <hr>
