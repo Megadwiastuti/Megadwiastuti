@@ -9,8 +9,8 @@
   <br>
 
   - ⭐️ While Coding, Listening Music and developing useful code. 
-
   - 📔 Reading Novels, watching Action and Adventure movie, Historical Fiction, Romance, Sci-Fi, History books.
+  - 🎤 I like singing and music.
   
 **
   
