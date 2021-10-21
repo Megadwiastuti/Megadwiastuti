@@ -26,7 +26,7 @@
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Let's connect and chat! Open to anyone</i>
 <p align="center">
 <a href="https://twitter.com/dwi_megadwi10" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
