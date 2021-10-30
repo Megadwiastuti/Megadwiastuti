@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Mega Dwi Astuti 🙂👩‍💼
 
-#### I am a Graduated degree in Geophysical Engineering and I am Graduated Data Science Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/). Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
+#### I am a Bachelor degree in Geophysical Engineering and I am Graduated Data Science Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/). Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
 
 
 
