@@ -38,8 +38,8 @@
     <a href="https://public.tableau.com/app/profile/mega.dwi.astuti" target="_blank">  
     <img src="https://img.shields.io/badge/tableau-%230077B5.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=071A2C" alt="Tableau"/>
     </a>
-    <a href="https://twitter.com/dwi_megadwi10" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <a href="https://medium.com/@megadwiastuti1" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
     </a>
 
 <!---
