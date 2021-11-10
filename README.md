@@ -2,7 +2,7 @@
 
 #### I am a Bachelor degree in Geophysical Engineering and I am Graduated Data Science Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/). Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models. 
 
-
+This is a link to my portfolio ** https://drive.google.com/file/d/1cEgNVGDHglGxIebpzyk8oH_0y7bylr_l/view?usp=sharing **
 
 #### Some interesting facts about me👩‍💼
 
