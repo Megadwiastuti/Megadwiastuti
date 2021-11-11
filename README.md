@@ -29,9 +29,6 @@ This is a link to my portfolio **https://drive.google.com/file/d/1cEgNVGDHglGxIe
     <a href="https://www.linkedin.com/in/megadwia/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/mdamegadwi/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-    </a>
     <a href="https://github.com/Megadwiastuti" target="_blank">    
     <img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
     </a>
